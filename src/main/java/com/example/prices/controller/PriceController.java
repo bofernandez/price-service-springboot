@@ -1,6 +1,5 @@
 package com.example.prices.controller;
 
-import com.example.prices.model.Price;
 import com.example.prices.service.PriceService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.format.annotation.DateTimeFormat;

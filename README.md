@@ -36,7 +36,7 @@ En el sistema core del ecommerce de Inditex, se mantienen registros de precios p
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/price-service-springboot.git
+   git clone https://github.com/bofernandez/price-service-springboot.git
    cd price-service-springboot
 2. Ejecuta el proyecto con Maven:
    mvn spring-boot:run
